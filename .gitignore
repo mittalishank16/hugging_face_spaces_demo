@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Python / tooling config files (local-only)
+.gitignore
+.python-version
+pyproject.toml
+uv.lock
