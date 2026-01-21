@@ -43,5 +43,3 @@ if image is not None:
     st.balloons()
 else:
     st.write("Upload an Image")
-
-st.caption("Made with ❤️ by @1littlecoder. Credits to 🤗 Spaces for Hosting this ")
